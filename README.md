@@ -1,3 +1,4 @@
+<a href="https://rerouting.ca/wp-content/uploads/2020/12/2.png" target="_blank" rel="noreferrer"> <img src="https://rerouting.ca/wp-content/uploads/2020/12/2.png" alt="figma"/> </a>
 ### Bonjour 🙂
 
 I'm Harsh Parmar, Web developer 🎨
