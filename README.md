@@ -2,7 +2,7 @@
 
 I'm Harsh Parmar, Web developer 🎨
 - 📚 I am currently studying at Humber College
-- 🌱 I am currently in the race of **Web Development**
+- 🌱 I am in the race of **Web Development**
 - 📫 How to reach me **parmarharsh079@gmail.com**
 
 Colors and words are the runes of our Modern World. When wielded carefully, their power can help your creations shine through the noise!
